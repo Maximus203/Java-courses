@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>010-stream-projet</name>
+	<name>011-stream-test</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1659640864582</id>
+			<id>1659789353891</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
